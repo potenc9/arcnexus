@@ -16,19 +16,23 @@ ArcNexus is a NixOS-based operating system whose desktop is built around JARVIS,
 
 ## Demo
 
-<!-- Replace the placeholders below with real media in ./assets -->
+▶️ **Video walkthrough:** coming soon
 
-▶️ **Video walkthrough:** [PENDIENTE: link to demo video]
+![Tour of the holographic desktop](./assets/demo.gif)
 
-![Demo](./assets/demo.gif)
+<sub>Desktop screens rendered on a private headless compositor with sample data.</sub>
 
-| Desktop | Voice & missions |
+| Holographic desktop | Mission trace with approval |
 |---|---|
-| ![Holographic desktop](./assets/desktop-holo.png) | ![Mission with approval](./assets/mission-approval.png) |
+| ![Holographic desktop](./assets/desktop-holo.png) | ![Mission trace: model turns, tool calls, a wait for approval and a specialist](./assets/mission-approval.png) |
 
-| Memory graph | Devices |
+| Memory as a 3D nebula | Paired devices and approvals |
 |---|---|
-| ![3D memory graph](./assets/memory-brain.png) | ![Phone, watch, laptop and headset](./assets/devices.png) |
+| ![Knowledge graph rendered as a nebula, one lobe per topic](./assets/memory-brain.png) | ![Per-device permissions and pending approvals](./assets/devices.png) |
+
+**Wear OS watch** — watch face, voice and the paired app:
+
+![Wear OS watch face and app with the JARVIS orb](./assets/watch.png)
 
 ## Key Features
 
@@ -125,7 +129,7 @@ The system is a set of small single-purpose services on one workstation that tal
 
 ## Contact
 
-- 📧 **Email:** [PENDIENTE: your email]
-- 💼 **LinkedIn:** [PENDIENTE: your LinkedIn URL]
+- 📧 **Email:** [sergio@arcnexuslabs.com](mailto:sergio@arcnexuslabs.com)
+- 💼 **LinkedIn:** [linkedin.com/in/sergio-prieto-ganaza-23a366134](https://www.linkedin.com/in/sergio-prieto-ganaza-23a366134)
 
 *Source code is available for review upon request.*
