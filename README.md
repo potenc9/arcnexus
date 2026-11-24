@@ -20,7 +20,7 @@ ArcNexus is a NixOS-based operating system whose desktop is built around JARVIS,
 
 ### JARVIS's memory as a living nebula
 
-<p align="center"><img src="./assets/nebula.gif" alt="The knowledge graph as a nebula: it turns slowly, impulses travel the links, then the camera flies to a note and lights its connections" width="480"></p>
+<p align="center"><img src="./assets/nebula-black.gif" alt="The knowledge graph as a nebula: it turns slowly, impulses travel the links, then the camera flies to a note and lights its connections" width="480"></p>
 
 <p align="center"><sub>A custom GPU renderer for the knowledge graph: one lobe per topic, impulses along the links, and a spotlight on the chosen note.<br>▶️ <a href="./assets/nebula-black.mp4">Full-quality 30-second clip (MP4)</a></sub></p>
 
