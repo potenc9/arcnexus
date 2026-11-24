@@ -18,6 +18,14 @@ ArcNexus is a NixOS-based operating system whose desktop is built around JARVIS,
 
 ▶️ **[Watch the 1-minute desktop walkthrough (MP4)](./assets/arcnexus-tour.mp4)** — memory nebula, agents, scheduled tasks, mission traces, devices, metrics and a live approval.
 
+### JARVIS's memory as a living nebula
+
+<p align="center"><img src="./assets/nebula.gif" alt="The knowledge graph as a nebula: it turns slowly, impulses travel the links, then the camera flies to a note and lights its connections" width="480"></p>
+
+<p align="center"><sub>A custom GPU renderer for the knowledge graph: one lobe per topic, impulses along the links, and a spotlight on the chosen note.<br>▶️ <a href="./assets/nebula-black.mp4">Full-quality 30-second clip (MP4)</a></sub></p>
+
+### Desktop tour
+
 ![Tour of the holographic desktop](./assets/demo.gif)
 
 <sub>Desktop screens and video recorded on a private headless compositor with sample data.</sub>
@@ -28,7 +36,7 @@ ArcNexus is a NixOS-based operating system whose desktop is built around JARVIS,
 
 | Memory as a 3D nebula | Paired devices and approvals |
 |---|---|
-| ![Knowledge graph rendered as a nebula: idle rotation, then the camera flies to a note and lights its links](./assets/nebula.gif) | ![Per-device permissions and pending approvals](./assets/devices.png) |
+| ![Knowledge graph rendered as a nebula inside the Memory app](./assets/memory-brain.png) | ![Per-device permissions and pending approvals](./assets/devices.png) |
 
 **Wear OS watch** — watch face, voice and the paired app:
 
